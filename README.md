@@ -1,3 +1,5 @@
+Working through the tutorial on the React website, to familiarize myself with React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
